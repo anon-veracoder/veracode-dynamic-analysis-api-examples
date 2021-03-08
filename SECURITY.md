@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-This project is for educational purposes only.  Security issues 
+This project is for educational purposes only.  Any security issues will be fixed on the main branch.
 
 ## Reporting a Vulnerability
 
