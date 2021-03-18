@@ -12,4 +12,3 @@ how to report security issues.  Make sure to include the respository URL of this
 ## Veracode Scan Results
 
 This project has been scanned by Veracode static analysis and contains no known open security issues.
-
