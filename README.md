@@ -1,3 +1,5 @@
+<img src="https://help.veracode.com/internal/api/webapp/header/logo" width="200" /><br>
+
 # Veracode Python Dynamic Analysis API Examples
 
 ## Overview
